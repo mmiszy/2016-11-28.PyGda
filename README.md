@@ -1,4 +1,3 @@
-# TypeScript <3 TDD
-## Introduction to TDD in JavaScript and TypeScript
+# I Ty możesz być cyfrowym nomadą!
 
-[Zobacz slajdy](https://mmiszy.github.io/TDD-introduction-presentation/#/1)
+[Zobacz slajdy](https://mmiszy.github.io/2016-11-28.PyGda/#/)
